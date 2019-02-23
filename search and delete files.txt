@@ -1,0 +1,3 @@
+del D:\testy.txt /s /q
+
+get-childitem d:\ -include XLIHUGJBG-DECRYPT.txt -recurse | foreach ($_) {remove-item $_.fullname}

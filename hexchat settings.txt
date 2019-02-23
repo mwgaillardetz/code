@@ -1,0 +1,6 @@
+hexchat settings
+
+channel: undernet
+sub channel: bookz
+
+find a book: type @search title
